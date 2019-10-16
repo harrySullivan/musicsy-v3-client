@@ -1,0 +1,6 @@
+{
+  "/playlist/:id": {
+    "method": "get",
+    "url": "/api/playlist/${id}"
+  }
+}
